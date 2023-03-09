@@ -1,0 +1,51 @@
+
+* {
+    
+   margin: 0%;
+   padding: 0%; 
+}
+body {
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: #000000;
+    color: #FF6317;
+    
+}
+
+.titulo-destaque {
+    color:#23FA96;
+}
+
+.fabio{
+    border-radius: 10%;
+
+    border: #23FA96;
+    border-style: solid;
+    
+    box-shadow: 5px 4px #07AD60;
+}
+
+.pai {
+    margin: 10%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.pai__texto {
+    width: 615px;
+}
+
+.pai__texto__titulo{
+    font-size: 36px;
+    font-family: 'Krona One', sans-serif;
+   
+}
+
+.pai__texto__texto{
+
+    font-size: 24px;
+    font-family: 'Krona One', sans-serif;
+
+}
