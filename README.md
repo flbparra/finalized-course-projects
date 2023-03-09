@@ -1,16 +1,10 @@
-# Curso da Alura: Formação HTML e CSS
+# Objetivo:
 
-Nesta formação para iniciantes em Front-end, você aprenderá: 
->- Ferramentas de desenvolvimento de layouts (ex: Figma) e publicação (ex: Github)
->- Estruturar uma página web com tags HTML
->- Compreender como HTML e CSS trabalham juntos
->- Descobrir como organizar o conteúdo com arquivos HTML
->- Organizar uma página com CSS Flexbox
->- Criar cabeçalhos, rodapés e aplicar estilos com CSS
->- Tornar seu site responsivo para diferentes tamanhos de tela
+>> Esse repositório tem o intuito de mostrar os resultados e atividades de curso que fiz durante minha carreira. Claro que é um repositório geral.
 
-- [ ] **HTML e CSS: Ambientes de desenvolvimento, estrutura de arquivos e tags**
-- [ ] HTML e CSS:
+##### Cursos:
 
-
+- Formação *HTML* e *CSS* da Alura:
+    > A partir do zero: HTML e CSS para projetos web
+- Em processo
 
