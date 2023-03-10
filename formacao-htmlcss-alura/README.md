@@ -12,9 +12,9 @@ Nesta formação para iniciantes em Front-end, terar os seguintes tópicos de ap
 - Tornar seu site responsivo para diferentes tamanhos de tela
 
 <<<<<<< HEAD
-- [x] **HTML e CSS: Ambientes de desenvolvimento, estrutura de arquivos e tags**
-- [ ] **HTML e CSS: Classes, posucionamento e Flexbox**
-- [ ] **HTML e CSS: cabeçalho, footer e variáveis CSS**
+- [x] **HTML e CSS: Ambientes de desenvolvimento, estrutura de arquivos e tags**{c: green}*Complete*{/c}
+- [x] **HTML e CSS: Classes, posucionamento e Flexbox** {c: green}*Complete*{/c}
+- [ ] **HTML e CSS: cabeçalho, footer e variáveis CSS** {c: red}*0/5*{/c}
 - [ ] **HTML e CSS: trabalhando com responsividade e publicação de projetos**
 - [ ] **HTML e CSS: praticando HTML/CSS**
 - [ ] **HTML e CSS: reponsividade com mobile-frst**

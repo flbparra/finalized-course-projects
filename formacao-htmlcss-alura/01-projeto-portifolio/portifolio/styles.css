@@ -34,7 +34,10 @@ body {
 }
 
 .pai__texto {
-    width: 615px;
+    width: 616px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
 }
 
 .pai__texto__titulo{
@@ -46,6 +49,29 @@ body {
 .pai__texto__texto{
 
     font-size: 24px;
-    font-family: 'Krona One', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 
+}
+
+.pai__texto_links{
+
+    margin: 1%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.pai__texto_links_link{
+    background-color: #23FA96;
+    width: 250px;
+    text-align: center;
+    border-radius: 16px;
+    font-size: 26px;
+    padding: 24px 0px;
+    color: #000000;
+}
+
+.pai__texto_links_link{
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
 }
