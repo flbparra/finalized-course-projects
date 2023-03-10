@@ -11,10 +11,11 @@ Nesta formação para iniciantes em Front-end, terar os seguintes tópicos de ap
 - Criar cabeçalhos, rodapés e aplicar estilos com CSS
 - Tornar seu site responsivo para diferentes tamanhos de tela
 
-<<<<<<< HEAD
-- [x] **HTML e CSS: Ambientes de desenvolvimento, estrutura de arquivos e tags**{c: green}*Complete*{/c}
-- [x] **HTML e CSS: Classes, posucionamento e Flexbox** {c:#B81365}*Complete*{/c}
-- [ ] **HTML e CSS: cabeçalho, footer e variáveis CSS** <kbd>{c:red}0/5{/c}</kbd>
+Passos dessa formação:
+
+- [x] **HTML e CSS: Ambientes de desenvolvimento, estrutura de arquivos e tags**
+- [x] **HTML e CSS: Classes, posucionamento e Flexbox** 
+- [ ] **HTML e CSS: cabeçalho, footer e variáveis CSS** 
 - [ ] **HTML e CSS: trabalhando com responsividade e publicação de projetos**
 - [ ] **HTML e CSS: praticando HTML/CSS**
 - [ ] **HTML e CSS: reponsividade com mobile-frst**
