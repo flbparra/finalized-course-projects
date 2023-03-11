@@ -15,7 +15,7 @@ Passos dessa formação:
 
 - [x] **HTML e CSS: Ambientes de desenvolvimento, estrutura de arquivos e tags**
 - [x] **HTML e CSS: Classes, posucionamento e Flexbox** 
-- [ ] **HTML e CSS: cabeçalho, footer e variáveis CSS** 
+- [x] **HTML e CSS: cabeçalho, footer e variáveis CSS** 
 - [ ] **HTML e CSS: trabalhando com responsividade e publicação de projetos**
 - [ ] **HTML e CSS: praticando HTML/CSS**
 - [ ] **HTML e CSS: reponsividade com mobile-frst**

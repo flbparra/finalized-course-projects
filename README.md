@@ -4,7 +4,6 @@ Esse repositório tem o intuito de mostrar os resultados e atividades de curso q
 
 ## Cursos:
 
-- Formação *HTML* e *CSS* da Alura:
-    > link do projeto: [A partir do zero: HTML e CSS para projetos web](formacao-htmlcss-alura/)
-- Em processo
+- Formação *HTML* e *CSS* da Alura: link do projeto: [A partir do zero: HTML e CSS para projetos web](formacao-htmlcss-alura/)
+
 
