@@ -17,7 +17,7 @@ Passos dessa formação:
 - [x] **HTML e CSS: Classes, posucionamento e Flexbox** 
 - [x] **HTML e CSS: cabeçalho, footer e variáveis CSS** 
 - [x] **HTML e CSS: trabalhando com responsividade e publicação de projetos**
-- [ ] **HTML e CSS: praticando HTML/CSS**
+- [ ] **HTML e CSS: praticando HTML/CSS** 
 - [ ] **HTML e CSS: reponsividade com mobile-frst**
 
 Ainda estou em progresso neste curso, porém está sendo bastante produtivo, sinto qeu realmente estou aprendendo muitas coisas, como criar um esqueleto do projeto em *HTML* e "estilizar" com *CSS*, usando boas práticas e aprendendo mais sobre **flexbox**.
